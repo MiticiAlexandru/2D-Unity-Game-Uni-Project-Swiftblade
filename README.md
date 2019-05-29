@@ -1,6 +1,11 @@
 # 2D-Unity-Game-Uni-Project-Swiftblade
 Descriere
 
+VERSIUNE NOUA:
+
+Un joc simplu in Visual Studio, pe framework de Windows Form Application. Platformer, singleplayer.
+
+VERSIUNE VECHE:
 Un joc simplu in Unity(2D), platformer, singleplayer. Un jucator se plimba prin nivel, sarind si omorand minioni. Scopul este sa ajungi la finalul nivelului unde primesti o recompensa si intri in nivelul urmator. Fiecare nivel este din ce in ce mai greu, numarul de nivele e finit. Jucatorul are mai multe caractere din care pot alege, cu abilitati diferite.
 
 Lista de cerinte:
@@ -49,6 +54,6 @@ Lista de cerinte:
 	
 	->sunet actiuni(atacuri, kill-uri etc.)
 	
--elemente de managment de resurse
+-elemente de managment de resurse???
 
 -testare
